@@ -1,0 +1,57 @@
+[ {
+	"child" : [ {
+		"name"	: "Adult Link (MM)",
+		"filter"	: "Link",
+		"author"	: "Skilarbabcock",
+		"info"		: "- Adult Link clips through Epona in the opening cutscene, and won't be fixed"
+	}, {
+		"name"	: "Improved Link",
+		"filter"	: "Link",
+		"author"	: "Skilarbabcock"
+	}, {
+		"name"	: "Improved Link + OoT Eyes",
+		"filter"	: "Link",
+		"author"	: "Skilarbabcock (model) & GhostlyDark (eyes)"
+	}, {
+		"name"	: "Ocarina of Time 3D",
+		"filter"	: "Link",
+		"author"	: "Skilarbabcock",
+		"hylian_shield"	: 0
+	}, {
+		"name"	: "Twilight Princess",
+		"filter"	: "Link",
+		"author"	: "Skilarbabcock"
+	} ],
+	
+	"adult" : [ {
+		"name"	: "Breath of the Wild",
+		"filter"	: "Link",
+		"author"	: "Skilarbabcock"
+	}, {
+		"name"	: "Link's Awakening",
+		"filter"	: "Link",
+		"author"	: "Skilarbabcock",
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
+	}, {
+		"name"	: "Majora's Mask",
+		"filter"	: "Link",
+		"author"	: "Skilarbabcock",
+		"hylian_shield"	: 0
+	}, {
+		"name"	: "Ocarina of Time 3D",
+		"filter"	: "Link",
+		"author"	: "Skilarbabcock",
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
+	}, {
+		"name"	: "Skyward Sword",
+		"filter"	: "Link",
+		"author"	: "Skilarbabcock",
+		"mirror_shield" : 0
+	}, {
+		"name"	: "Twilight Princess",
+		"filter"	: "Link",
+		"author"	: "Skilarbabcock"
+	} ]
+} ]
