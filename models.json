@@ -18,6 +18,10 @@
 		"author"	: "Skilarbabcock",
 		"hylian_shield"	: 0
 	}, {
+		"name"	: "Sashed",
+		"filter"	: "Link",
+		"author"	: "AriaHiro64"
+	}, {
 		"name"	: "Twilight Princess",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock"
@@ -44,6 +48,10 @@
 		"author"	: "Skilarbabcock",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
+	}, {
+		"name"	: "Sashed",
+		"filter"	: "Link",
+		"author"	: "AriaHiro64"
 	}, {
 		"name"	: "Skyward Sword",
 		"filter"	: "Link",
