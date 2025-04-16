@@ -11,3 +11,5 @@ Report to their original artists instead.
 **OniFox** : https://twitter.com/OniFox97
 
 **Malon's Rose** : https://www.youtube.com/channel/UCXpR7pCv3cGQ_0xoLNK44uQ
+
+_Do NOT use any of these models for any commercial use. The characters and most of their resources belong to **Nintendo**._ 
