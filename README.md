@@ -2,4 +2,6 @@
 
 Report to their original artists instead.
 -------------------------------------------------------------------------------------------------
-Skilarbabcock : https://www.youtube.com/channel/UCAUDpAKuusmRmBO9Nle4FYA
+**Skilarbabcock** : https://www.youtube.com/channel/UCAUDpAKuusmRmBO9Nle4FYA
+
+**Lopieloo** : https://www.deviantart.com/lopieloo
