@@ -18,15 +18,10 @@
 		"author"	: "Skilarbabcock",
 		"hylian_shield"	: 0
 	}, {
-		"name"	: "OOT Young Zelda",
-		"filter"	: "Female",
-		"author"	: "OniFox",
-		"deku_shield"	: 0,
-		"hylian_shield"	: 0
-	}, {
 		"name"	: "Princess Zelda ALttP",
 		"filter"	: "Female",
-		"author"	: "Unesag"
+		"author"	: "Unesag",
+		"hylian_shield"	: 0
 	}, {
 		"name"	: "Twilight Princess",
 		"filter"	: "Link",
@@ -62,12 +57,6 @@
 		"name"	: "Ocarina of Time 3D",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
-		"hylian_shield"	: 0,
-		"mirror_shield"	: 0
-	}, {
-		"name"	: "OOT Princess Zelda",
-		"filter"	: "Female",
-		"author"	: "Malon's Rose",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	}, {
