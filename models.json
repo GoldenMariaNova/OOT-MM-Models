@@ -18,6 +18,10 @@
 		"author"	: "Skilarbabcock",
 		"hylian_shield"	: 0
 	}, {
+		"name"	: "Princess Zelda ALttP",
+		"filter"	: "Female",
+		"author"	: "Unesag"
+	}, {
 		"name"	: "Twilight Princess",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock"
