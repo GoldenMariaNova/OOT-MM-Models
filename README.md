@@ -7,3 +7,7 @@ Report to their original artists instead.
 **Lopieloo** : https://www.deviantart.com/lopieloo
 
 **Unesag** : https://www.youtube.com/@Unesag
+
+**OniFox** : https://twitter.com/OniFox97
+
+**Malon's Rose** : https://www.youtube.com/channel/UCXpR7pCv3cGQ_0xoLNK44uQ
