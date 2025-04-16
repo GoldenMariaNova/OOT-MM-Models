@@ -58,7 +58,8 @@
 		"name"	: "Princess Zelda ALttP",
 		"filter"	: "Female",
 		"author"	: "Lopieloo",
-		"hylian_shield"	: 0
+		"hylian_shield"	: 0,
+		"mirror_shield" : 0
 	}, {
 		"name"	: "Skyward Sword",
 		"filter"	: "Link",
