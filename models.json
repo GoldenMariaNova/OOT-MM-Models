@@ -18,6 +18,10 @@
 		"author"	: "Skilarbabcock",
 		"hylian_shield"	: 0
 	}, {
+		"name"	: "OOT Young Zelda",
+		"filter"	: "Female",
+		"author"	: "OniFox"
+	}, {
 		"name"	: "Princess Zelda ALttP",
 		"filter"	: "Female",
 		"author"	: "Unesag"
