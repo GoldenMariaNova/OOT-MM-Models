@@ -20,7 +20,9 @@
 	}, {
 		"name"	: "OOT Young Zelda",
 		"filter"	: "Female",
-		"author"	: "OniFox"
+		"author"	: "OniFox",
+		"deku_shield"	: 0,
+		"hylian_shield"	: 0
 	}, {
 		"name"	: "Princess Zelda ALttP",
 		"filter"	: "Female",
@@ -65,7 +67,9 @@
 	}, {
 		"name"	: "OOT Princess Zelda",
 		"filter"	: "Female",
-		"author"	: "Malon's Rose"
+		"author"	: "Malon's Rose",
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
 	}, {
 		"name"	: "Princess Zelda ALttP",
 		"filter"	: "Female",
