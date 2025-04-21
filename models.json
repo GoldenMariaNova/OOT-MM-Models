@@ -66,6 +66,10 @@
 		"hylian_shield"	: 0,
 		"mirror_shield" : 0
 	}, {
+		"name"		: "Sashed Classic",
+		"filter"	: "Link",
+		"author"	: "AriaHiro64"
+	}, {
 		"name"	: "Skyward Sword",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
