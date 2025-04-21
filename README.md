@@ -8,4 +8,6 @@ Report to their original artists instead.
 
 **Unesag** : https://www.youtube.com/@Unesag
 
-_Do NOT use any of these models for any commercial use. The characters and most of their resources belongs to **Nintendo**._ 
+**AriaHiro64** : https://github.com/ariahiro64
+
+_Do NOT use any of these models for any commercial use. The characters and most of their resources belongs to **Nintendo**._
