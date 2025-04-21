@@ -23,6 +23,10 @@
 		"author"	: "Unesag",
 		"hylian_shield"	: 0
 	}, {
+		"name"	: "Sashed Classic",
+		"filter"	: "Link",
+		"author"	: "AriaHiro64"
+	}, {
 		"name"	: "Twilight Princess",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock"
@@ -66,7 +70,7 @@
 		"hylian_shield"	: 0,
 		"mirror_shield" : 0
 	}, {
-		"name"		: "Sashed Classic",
+		"name"	: "Sashed Classic",
 		"filter"	: "Link",
 		"author"	: "AriaHiro64"
 	}, {
