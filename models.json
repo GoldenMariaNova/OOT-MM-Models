@@ -13,6 +13,10 @@
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock (model) & GhostlyDark (eyes)"
 	}, {
+		"name"	: "Linkle",
+		"filter"	: "Female",
+		"author"	: "Zalfur"
+	}, {
 		"name"	: "Ocarina of Time 3D",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
@@ -42,6 +46,10 @@
 		"author"	: "Skilarbabcock",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
+	}, {
+		"name"	: "Linkle",
+		"filter"	: "Female",
+		"author"	: "Zalfur"
 	}, {
 		"name"	: "Majora's Mask",
 		"filter"	: "Link",
