@@ -13,10 +13,6 @@
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock (model) & GhostlyDark (eyes)"
 	}, {
-		"name"	: "Malon",
-		"filter"	: "Female",
-		"author"	: "Malon's Rose"
-	}, {
 		"name"	: "Ocarina of Time 3D",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
@@ -26,6 +22,10 @@
 		"filter"	: "Female",
 		"author"	: "Unesag",
 		"hylian_shield"	: 0
+	}, {
+		"name"	: "Roll",
+		"filter"	: "Female",
+		"author"	: "Psi-Hate"
 	}, {
 		"name"	: "Sashed Classic",
 		"filter"	: "Link",
@@ -62,10 +62,6 @@
 		"author"	: "Skilarbabcock",
 		"hylian_shield"	: 0
 	}, {
-		"name"	: "Malon",
-		"filter"	: "Female",
-		"author"	: "Malon's Rose"
-	}, {
 		"name"	: "Ocarina of Time 3D",
 		"filter"	: "Link",
 		"author"	: "Skilarbabcock",
@@ -77,6 +73,10 @@
 		"author"	: "Lopieloo",
 		"hylian_shield"	: 0,
 		"mirror_shield" : 0
+	}, {
+		"name"	: "Roll",
+		"filter"	: "Female",
+		"author"	: "Psi-Hate"
 	}, {
 		"name"	: "Sashed Classic",
 		"filter"	: "Link",
