@@ -10,4 +10,6 @@ Report to their original artists instead.
 
 **AriaHiro64** : https://github.com/ariahiro64
 
+**Psi-Hate** : https://www.youtube.com/@PsiHate/videos
+
 _Do NOT use any of these models for any commercial use. The characters and most of their resources belongs to **Nintendo**._
