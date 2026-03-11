@@ -10,4 +10,4 @@ Report to their original artists instead.
 
 **Psi-Hate** : https://www.youtube.com/@PsiHate/featured
 
-_Do NOT use any of these models for any commercial use. The characters and most of their resources belongs to **Nintendo**._
+_Do **NOT** use any of these models for any commercial use. The characters and most of their resources belongs to **Nintendo**._
